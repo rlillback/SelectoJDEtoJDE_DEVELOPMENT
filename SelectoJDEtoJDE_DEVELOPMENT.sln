@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SelectoJDEtoJDE_DEVELOPMENT", "SelectoJDEtoJDE_DEVELOPMENT.dtproj", "{AA3B23B5-91FF-4B4F-BC45-2CD7E7613B09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3B23B5-91FF-4B4F-BC45-2CD7E7613B09}.Development|Default.ActiveCfg = Development
+		{AA3B23B5-91FF-4B4F-BC45-2CD7E7613B09}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C23E212-AA8D-4C2E-905A-20B6FEC2FAAE}
+	EndGlobalSection
+EndGlobal
